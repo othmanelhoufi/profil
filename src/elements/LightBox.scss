@@ -1,0 +1,55 @@
+// Predefined Break-points
+$breakPoint-1: 960px;
+$breakPoint-2: 480px;
+
+
+.imagesContainer {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  margin: 50px 20px;
+
+
+  .images {
+
+    width: 20em;
+    margin: 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+  }
+
+}
+
+
+@media (max-width: $breakPoint-1) {
+
+  .imagesContainer {
+
+    .images {
+      width: 17em;
+      margin: 5px 5px;
+    }
+
+  }
+
+}
+
+@media (max-width: $breakPoint-2) {
+
+  .imagesContainer {
+    // justify-content: flex-start;
+
+    margin: 5px;
+
+    .images {
+      width: 15em;
+      margin: 3px 3px;
+    }
+
+  }
+
+}

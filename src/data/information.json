@@ -1,0 +1,153 @@
+{
+  "signature" : ["/images/carbon1.png", "/images/carbon2.png"],
+  "fullname" : "Othman El houfi",
+  "status" : "Web developer",
+  "email" : "othmanjobsblog@gmail.com",
+  "experience" : [
+
+    {
+      "title" : "First Experience",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Second Experience",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Third Experience",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Fourth Experience",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    }
+
+  ],
+
+  "education" : [
+    {
+      "title" : "First Education",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Second Education",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Third Education",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    },
+
+    {
+      "title" : "Fourth Education",
+      "date" : "2018-2019",
+      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : ["/images/Screenshot2.png", "/images/Screenshot2.png", "/images/Screenshot2.png" ]
+    }
+  ],
+
+  "skills" : [
+
+    {
+      "category" : "Web",
+      "skillTypes" : [
+        {
+          "skill" : "HTML",
+          "percentage" : 95
+        },
+        {
+          "skill" : "CSS",
+          "percentage" : 90
+        },
+        {
+          "skill" : "JS",
+          "percentage" : 85
+        },
+        {
+          "skill" : "React",
+          "percentage" : 75
+        },
+        {
+          "skill" : "SQL",
+          "percentage" : 90
+        }
+      ]
+    },
+
+    {
+      "category" : "Desktop",
+      "skillTypes" : [
+        {
+          "skill" : "Java",
+          "percentage" : 95
+        },
+        {
+          "skill" : "JavaFX",
+          "percentage" : 90
+        },
+        {
+          "skill" : "Python",
+          "percentage" : 75
+        }
+      ]
+
+    },
+
+    {
+      "category" : "Other",
+      "skillTypes" : [
+        {
+          "skill" : "Kali\nLinux",
+          "percentage" : 80
+        },
+        {
+          "skill" : "GitHub",
+          "percentage" : 95
+        },
+        {
+          "skill" : "Figma",
+          "percentage" : 95
+        }
+      ]
+
+    }
+
+  ],
+
+  "social": [
+    {
+      "network" : "Twitter",
+      "link" : "https://twitter.com/OthmanElhoufi"
+    },
+
+    {
+      "network" : "LinkedIn",
+      "link" : "https://www.linkedin.com/in/othman-el-houfi-581871163/"
+    },
+
+    {
+      "network" : "GitHub",
+      "link" : "https://github.com/othmanelhoufi"
+    }
+  ]
+
+}

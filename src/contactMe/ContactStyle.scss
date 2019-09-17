@@ -1,0 +1,31 @@
+.contactContainer {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+
+  .socialMedia {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+
+    .socialImage{
+      padding: 15px;
+    }
+
+    img {
+
+      width: 2em;
+      transition: 0.5s;
+    }
+
+    img:hover {
+      opacity: 0.5;
+    }
+  }
+}

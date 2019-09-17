@@ -1,0 +1,71 @@
+// Predefined Break-points
+$breakPoint-1: 720px;
+
+
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.51);
+
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+  }
+
+  li {
+    display: inline-block;
+    padding: 0.5em 1.5em;
+
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.075em;
+
+    color: rgba(0, 0, 0, 0.55);
+
+  }
+
+  a:hover {
+    color: black;
+  }
+
+  .selected {
+    color: black;
+    border-bottom: solid  2px ;
+
+  }
+
+}
+
+
+@media only screen and (max-width: $breakPoint-1) {
+
+  .navbar {
+
+    li {
+      padding: 0.5em 1em;
+    }
+
+    a {
+      font-size: 12px;
+    }
+
+  }
+
+}

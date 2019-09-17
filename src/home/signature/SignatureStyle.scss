@@ -1,0 +1,154 @@
+// Predefined Break-points
+$breakPoint-1: 1300px;
+$breakPoint-2: 720px;
+$breakPoint-3: 420px;
+
+.signatureContainer {
+
+  position: relative;
+
+  img {
+
+  }
+
+  div:nth-child(1)  {
+  }
+
+  div:nth-child(2)  {
+
+  }
+
+
+}
+
+
+@media only screen and (min-width: $breakPoint-1) {
+
+  .signatureContainer {
+
+
+    img {
+      box-shadow: 0 6px 20px 0 rgba(21, 24, 23, 0.44);
+    }
+
+    div:nth-child(1)  {
+      position: absolute;
+
+    }
+
+    div:nth-child(2)  {
+      position: relative;
+      transform: translate( 100px, -100px );
+
+    }
+
+
+  }
+
+}
+
+
+@media only screen and (max-width: $breakPoint-1) {
+
+  .signatureContainer {
+
+    padding: 5em 0;
+    margin-top: 3em;
+
+
+    img {
+      box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.36);
+    }
+
+    div:nth-child(1)  {
+      position: absolute;
+      left: 50%;
+      transform: translate( -60% , 10% );
+      // transform: translate( -50px, 50px );
+
+
+    }
+
+    div:nth-child(2)  {
+      position: relative;
+      transform: translate( 50px, -50px );
+
+
+    }
+
+
+  }
+
+}
+
+
+@media only screen and (max-width: $breakPoint-2) {
+
+  .signatureContainer {
+
+    position: relative;
+    padding: 5em 0;
+
+    img {
+
+      box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.36);
+      width: 350px;
+
+    }
+
+    div:nth-child(1)  {
+      position: absolute;
+      left: 50%;
+      transform: translate( -60% , 10% );
+      // transform: translate( -50px, 50px );
+
+
+    }
+
+    div:nth-child(2)  {
+      position: relative;
+      transform: translate( 5%, -20% );
+
+
+    }
+
+
+  }
+
+}
+
+
+@media only screen and (max-width: $breakPoint-3) {
+
+  .signatureContainer {
+
+    position: relative;
+    padding: 5em 0;
+
+    img {
+
+      box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.36);
+      width: 250px;
+
+    }
+
+    div:nth-child(1)  {
+      position: absolute;
+      left: 50%;
+      transform: translate( -60% , 10% );
+      // transform: translate( -50px, 50px );
+
+
+    }
+
+    div:nth-child(2)  {
+      position: relative;
+      transform: translate( 5%, -20% );
+
+
+    }
+
+
+  }
+
+}

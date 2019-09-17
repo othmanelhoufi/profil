@@ -1,0 +1,119 @@
+// Predefined Break-points
+$breakPoint-0: 1680px;
+$breakPoint-1: 1300px;
+$breakPoint-2: 720px;
+
+.home {
+
+  display: flex;
+
+  position: relative;
+  // left: 50%;
+  // transform: translate( -50%, -50% );
+
+  .fullname {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    // text-indent: 10px;
+    word-wrap: break-word;
+    letter-spacing: 0.025em;
+    color: rgba(0, 0, 0, 0.85);
+
+  }
+
+  .status {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    /* identical to box height */
+    transform: translateY(-10px);
+    letter-spacing: 0.05em;
+    text-indent: 10px;
+    color: rgba(0, 0, 0, 0.71);
+
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+}
+
+
+@media only screen and (max-width: $breakPoint-1) {
+
+  .home {
+
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    text-align: center;
+    margin-bottom: 5em;
+
+
+    // grid-template-rows: 1fr 1fr;
+    // grid-row-gap: 100px;
+    // justify-content: center;
+
+    .fullname {
+
+    }
+
+    .status {
+
+
+    }
+
+    a {
+
+    }
+
+  }
+
+
+}
+
+@media only screen and (min-width: $breakPoint-1) {
+
+  .home {
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    // align-items: center;
+
+    margin-top: 8em;
+
+    .fullname {
+
+    }
+
+    .status {
+
+
+    }
+
+    a {
+
+    }
+
+  }
+
+
+}
+
+@media only screen and (min-width: $breakPoint-0) {
+
+  .home {
+
+    margin-top: 15em;
+
+  }
+
+
+}

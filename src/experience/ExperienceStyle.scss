@@ -1,0 +1,27 @@
+
+.experience, .education {
+
+  // display:  block;
+  // grid-template-columns: 1fr;
+  // grid-template-rows: 1fr 4fr;
+  // grid-column-gap: 10px;
+  // grid-row-gap: 15px;
+  margin-top: 10em;
+  margin-bottom: 5em;
+
+  .title {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.075em;
+
+    color: #000000;
+
+    text-indent: 100px;
+  }
+
+}
