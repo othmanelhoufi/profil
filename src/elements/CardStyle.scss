@@ -4,7 +4,8 @@ $breakPoint-2: 480px;
 
 .card {
 
-  display: inline-grid;
+  display: grid;
+  grid-template-rows: 3fr 1fr;
   align-items: center;
   text-align: center;
   // background: linear-gradient(to bottom right, #B7F8DB, #50A7C2);
@@ -28,7 +29,7 @@ $breakPoint-2: 480px;
     font-size: 30px;
     line-height: 36px;
     letter-spacing: 0.075em;
-    white-space: pre-wrap;
+    // white-space: pre-wrap;
 
   }
 

@@ -72,7 +72,7 @@ export default function Form( props ) {
         </div>
 
         <div className="submitContainer">
-          <input className="button element color-11" type="submit" value={alertController.messageSent ? "SENT" : "SUBMIT"} disabled={alertController.messageSent ? "disabled" : ""}/>
+          <input className="button element color-11" type="submit" value={alertController.messageSent ? "SENT" : "SUBMIT"}/>
         </div>
 
     </form>

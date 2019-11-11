@@ -15,6 +15,7 @@ $breakPoint-3: 420px;
   }
 
   div:nth-child(2)  {
+    display: inline-block;
 
   }
 
@@ -70,8 +71,10 @@ $breakPoint-3: 420px;
     }
 
     div:nth-child(2)  {
+
       position: relative;
-      transform: translate( 50px, -50px );
+      // left: 50px;
+      transform: translate( 60px, -50px );
 
 
     }
@@ -107,7 +110,7 @@ $breakPoint-3: 420px;
 
     div:nth-child(2)  {
       position: relative;
-      transform: translate( 5%, -20% );
+      transform: translate( 10%, -20% );
 
 
     }
@@ -143,7 +146,7 @@ $breakPoint-3: 420px;
 
     div:nth-child(2)  {
       position: relative;
-      transform: translate( 5%, -20% );
+      transform: translate( 10%, -20% );
 
 
     }
