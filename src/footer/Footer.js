@@ -7,9 +7,9 @@ import Fade from 'react-reveal/Fade';
 const Footer = (props) => (
 
   <Fade top cascade>
-    <div className="footerContainer">
+    <footer className="footerContainer">
       © 2019 Designed and Programmed by Othman El houfi
-    </div>
+    </footer>
   </Fade>
 
 

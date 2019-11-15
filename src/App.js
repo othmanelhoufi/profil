@@ -10,7 +10,7 @@ import Experience from './experience/Experience';
 import Education from './education/Education';
 import Skills from './skills/Skills';
 import Contact from './contactMe/Contact';
-import Footer from './footer/Footer';
+// import Footer from './footer/Footer';
 
 function App() {
 

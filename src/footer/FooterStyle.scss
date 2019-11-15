@@ -1,16 +1,29 @@
 $breakPoint-1: 1300px;
 
-.footerContainer {
+// .footerContainer {
+//
+//   position: fixed;
+//   bottom:0;
 
-  position: fixed;
-  bottom:0;
-  left: 50%;
-  transform: translateX(-50%);
-  word-wrap: break-word;
+//   word-wrap: break-word;
+//
 
+//
+// }
+
+footer {
+  position: relative;
   text-align: center;
   color: rgba(0, 0, 0, 0.58);
   font-style: italic;
   font-size: 10px;
+}
 
+@media only screen and (min-width: 768px) {
+  footer {
+    position: fixed;
+    bottom:0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }

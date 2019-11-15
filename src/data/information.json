@@ -1,5 +1,5 @@
 {
-  "signature" : ["./images/carbon1.png", "./images/carbon2.png"],
+  "signature" : ["../images/carbon1.png", "../images/carbon2.png"],
   "fullname" : "Othman Elhoufi",
   "status" : "Desktop & Web Developer",
   "email" : "othmanjobsblog@gmail.com",
@@ -35,7 +35,7 @@
               [
                 [ "" , "" ]
               ],
-      "image" : ["./images/Screenshot1.png", "./images/Screenshot2.png", "./images/Screenshot3.png", "./images/Screenshot4.png", "./images/Screenshot5.png", "./images/Screenshot6.png", "./images/Screenshot7.png", "./images/Screenshot8.png", "./images/Screenshot9.png", "./images/Screenshot10.png", "./images/Screenshot11.png", "./images/Screenshot12.png", "./images/Screenshot13.png", "./images/Screenshot14.png", "./images/screen-record.mp4" ]
+      "image" : ["../images/Screenshot1.png", "../images/Screenshot2.png", "../images/Screenshot3.png", "../images/Screenshot4.png", "../images/Screenshot5.png", "../images/Screenshot6.png", "../images/Screenshot7.png", "../images/Screenshot8.png", "../images/Screenshot9.png", "../images/Screenshot10.png", "../images/Screenshot11.png", "../images/Screenshot12.png", "../images/Screenshot13.png", "../images/Screenshot14.png", "../images/screen-record.mp4" ]
     }
 
   ],
@@ -49,7 +49,7 @@
               [
                 [ "See more details about the educational program : " , "http://licence.math.univ-paris-diderot.fr/mathinfo" ]
               ],
-      "image" : [ "./images/paris.jpeg" ]
+      "image" : [ "../images/paris.jpeg" ]
     },
 
     {
@@ -60,7 +60,7 @@
               [
                 [ "See more details about the educational program : " , "http://licence.math.univ-paris-diderot.fr/mathinfo" ]
               ],
-      "image" : [ "./images/paris.jpeg" ]
+      "image" : [ "../images/paris.jpeg" ]
     }
   ],
 
@@ -140,19 +140,19 @@
     {
       "network" : "Twitter",
       "link" : "https://twitter.com/OthmanElhoufi",
-      "iconPath" : "./icons/Twitter.png"
+      "iconPath" : "../icons/Twitter.png"
     },
 
     {
       "network" : "LinkedIn",
       "link" : "https://www.linkedin.com/in/othman-el-houfi-581871163/",
-      "iconPath" : "./icons/LinkedIn.png"
+      "iconPath" : "../icons/LinkedIn.png"
     },
 
     {
       "network" : "GitHub",
       "link" : "https://github.com/othmanelhoufi",
-      "iconPath" : "./icons/GitHub.png"
+      "iconPath" : "../icons/GitHub.png"
     }
   ]
 
