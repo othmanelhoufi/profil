@@ -1,5 +1,5 @@
 {
-  "signature" : ["../images/carbon1.png", "../images/carbon2.png"],
+  "signature" : ["./images/carbon1.png", "./images/carbon2.png"],
   "fullname" : "Othman Elhoufi",
   "status" : "Desktop & Web Developer",
   "email" : "othmanjobsblog@gmail.com",
@@ -8,60 +8,59 @@
     {
       "title" : "Freelance Teacher",
       "date" : "Since 2018",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
+      "details" : "As a foreign student, I had to find a part-time job to support my daily expenses. So I decided to use my knowledge in mathematics and physics to give private lessons to high school students, and help them appreciate the beauty of logic and the necessity of mathematics. \n I also try to teach to my students how important computer science is for the future and that programming is a 'must have' skill nowadays, so I show them some of my applicationsthat I made during my college years",
+      "links" :
+              [
+                [ "" , "" ]
+              ],
+      "image" : [  ]
     },
 
     {
       "title" : "Open Source Website",
       "date" : "2019-2020",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
+      "details" : "After I learned Javascript and ReactJs, I decided to create a website not only to practice what I learned but also to make a responsive website that everyone can use without having any knowledge in programming, so I decided to create a modern curriculum vitae website where the employer can see your experiences, your education, your skills, a portfolio of your work and also contact you directly to your email.\nThe main idea is to make the website so personal for each one who decides to use my code, and that it adapts automatically to his personal status and work, so I created a generic version where the only thing you have to do is to modify a JSON file and put your own information and voilà you own a personal website, no coding skills needed. I designed the website on Figma, then I programmed it using Atom as an editor, and ReactJs as a Javascript framework. It’s fully responsive and with a modern simplistic design.\n\n",
+      "links" :
+              [
+                [ "Github link: " , "https://github.com/othmanelhoufi/profil" ]
+              ],
+      "image" : [ ]
     },
 
     {
       "title" : "Modern Retro Video Game",
       "date" : "2019-2020",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
-    },
-
-    {
-      "title" : "Research About Method Of Least Squares",
-      "date" : "2019-2020",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
+      "details" : "In February 2018, during my second year at University Paris Diderot, all the students of computer science had to choose a programming project to work on, some were simple and some were really complicated, but the hardest part was to be the first to choose the project we liked otherwise we were to be obligated to take what is left. The university put up a website with all the projects on it and a countdown for when it starts, the only rule was “premier arrivé premier servi” (first-come-first-served).\n\nI still remember the day when I had to be with my partners and sort between the subjects. The countdown reached zero, we weren’t able to get the project we wanted, at first, but after a long period of patience, negotiation attempts with students and professors, we finally succeeded in getting what we wanted.\nThe project name is “Retro Jump”, and it’s a 2D retro game that we should create from scratch, the physics of the game, the collision system, the data base, the user interface, the levels… No external packages, everything should be made from scratch. We struggled in every step, we failed many times during the creation of physics and collision system, we changed our code over and over, sometimes we stayed together in one place and programmed all night, and each time we resolve a problem we felt the urge to do more, to create better, to level up in every angle.\n\nFour months later, our project was the best project ever made inside the university, the most modern game a student can make with the best: architecture, physics game, collision system that is based on pixel perfect, and user interface. We even created a sub-project where the user can create his own levels with a beautiful interface. It was a great experience, and a rewarding adventure with the best team I could ever be in.\n\nTechnology used for this project: Java, JavaFx, CSS, XML, Git, IntelliJ, GIMP.\nGroup members: SAAD BOULAGUIEM, OTHMAN EL HOUFI, RENAUD TORFS, WAHID AHMED AMMOUR.",
+      "links" :
+              [
+                [ "" , "" ]
+              ],
+      "image" : ["./images/Screenshot1.png", "./images/Screenshot2.png", "./images/Screenshot3.png", "./images/Screenshot4.png", "./images/Screenshot5.png", "./images/Screenshot6.png", "./images/Screenshot7.png", "./images/Screenshot8.png", "./images/Screenshot9.png", "./images/Screenshot10.png", "./images/Screenshot11.png", "./images/Screenshot12.png", "./images/Screenshot13.png", "./images/Screenshot14.png", "./images/screen-record.mp4" ]
     }
 
   ],
 
   "education" : [
     {
-      "title" : "First Education",
-      "date" : "2018-2019",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
+      "title" : "Bachelor's Degree In Mathematics",
+      "date" : "2017-2020",
+      "details" : "After graduating high school, I decided to study mathematics at University Paris Diderot in order to enrich my knowledge in this field as well as improve my logic thinking and problem solving skills especially when I program applications. This degree will also prepare me to study Artificial Intelligence for a Master’s degree. \nDuring the 3 years I studied: Linear Algebra I, Linear Algebra II, Abstract Algebra, Calculus I, Calculus II, Topology, Differential calculus.\n\n",
+      "links" :
+              [
+                [ "See more details about the educational program : " , "http://licence.math.univ-paris-diderot.fr/mathinfo" ]
+              ],
+      "image" : [ "./images/paris.jpeg" ]
     },
 
     {
-      "title" : "Second Education",
-      "date" : "2018-2019",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
-    },
-
-    {
-      "title" : "Third Education",
-      "date" : "2018-2019",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
-    },
-
-    {
-      "title" : "Fourth Education",
-      "date" : "2018-2019",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "image" : ["../images/Screenshot2.png", "../images/Screenshot2.png", "../images/Screenshot2.png" ]
+      "title" : "Bachelor's Degree In Computer Science",
+      "date" : "2017-2020",
+      "details" : "When I turned 16 years old, I started wondering about the code behind websites and applications, I understood that in order to create an application all you need is to learn a programming language and to be creative, then I started looking around the internet trying to create a website and avoid the learning part,  I created a blog in Google’s Blogger platform, as well as a WordPress page but I was obligated to use somebody’s template, it was not my code, it was not my design. So, after graduating high school, I decided to study Computer Science at University Paris Diderot, and I created many applications during my time in college. Now I want more, I want to create something smart… My next step is going to be AI.\n\n",
+      "links" :
+              [
+                [ "See more details about the educational program : " , "http://licence.math.univ-paris-diderot.fr/mathinfo" ]
+              ],
+      "image" : [ "./images/paris.jpeg" ]
     }
   ],
 
@@ -141,19 +140,19 @@
     {
       "network" : "Twitter",
       "link" : "https://twitter.com/OthmanElhoufi",
-      "iconPath" : "../icons/Twitter.png"
+      "iconPath" : "./icons/Twitter.png"
     },
 
     {
       "network" : "LinkedIn",
       "link" : "https://www.linkedin.com/in/othman-el-houfi-581871163/",
-      "iconPath" : "../icons/LinkedIn.png"
+      "iconPath" : "./icons/LinkedIn.png"
     },
 
     {
       "network" : "GitHub",
       "link" : "https://github.com/othmanelhoufi",
-      "iconPath" : "../icons/GitHub.png"
+      "iconPath" : "./icons/GitHub.png"
     }
   ]
 

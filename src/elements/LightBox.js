@@ -14,10 +14,17 @@ function Lightbox( props ) {
 
 
   const arrayToImages = (arr) => ( arr.map( (path, num) => {
+      let tmp = "";
+      let extension = path.substring( path.length - 4 , path.length );
+      if (  extension !== ".png" && extension !==".jpg" && extension !==".gif" && extension !=="jpeg" ) {
+        tmp = <img className='images' src="../images/minature.png" alt="../images/minature.png" />
+      } else {
+        tmp = <img className="images" src={path} alt={path} />
+      }
       return (
           <div key={num}>
             <div onClick={ () => openLightboxOnSlide(num+1) }>
-              <img className="images" src={path} alt={path} />
+              {tmp}
             </div>
           </div>
         );

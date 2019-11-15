@@ -91,6 +91,7 @@ $breakPoint-2: 480px;
       letter-spacing: 0.075em;
       color: rgba(0, 0, 0, 0.67);
       padding-bottom: 50px;
+      padding-left: 3px;
 
     }
 
@@ -98,6 +99,47 @@ $breakPoint-2: 480px;
       font-family: 'Source Sans Pro', sans-serif;
       text-align: justify;
       font-size: 18px;
+      line-height: 25px;
+      white-space: pre-line;
+    }
+
+    .cardLinks {
+
+      font-style: italic;
+
+      .linkTitle {
+
+      }
+
+      .linkAdress {
+
+        /* start of code to break link */
+
+        /* These are technically the same, but use both */
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+
+        -ms-word-break: break-all;
+        /* This is the dangerous one in WebKit, as it breaks things wherever */
+        word-break: break-all;
+        /* Instead use this non-standard one: */
+        word-break: break-word;
+
+        /* Adds a hyphen where the word breaks, if supported (No Blink) */
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+
+        /* end of code to break link */
+
+        a {
+          text-decoration: none;
+          color: rgb(26, 97, 116);
+        }
+
+      }
+
     }
 
     .cardImage {

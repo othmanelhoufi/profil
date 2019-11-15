@@ -80,6 +80,9 @@ class Card extends Component {
                   <div className="cardTitle"> {this.props.title} </div>
                   <div className="cardDate"> {this.props.date} </div>
                   <div className="cardDetails"> {this.props.details} </div>
+                  <div className="cardLinks">
+                    { arrayToLinks(this.props.links) }
+                  </div>
                   <div className="cardImage">
                       <LightBox images={this.props.image} />
                   </div>
@@ -97,6 +100,15 @@ class Card extends Component {
   }
 }
 
+const arrayToLinks = (arr) => ( arr.map( (link, num) => {
+    return (
+      <div key={num}>
+        <span className="linkTitle"> {link[0]} </span>
+        <span className="linkAdress"> <a href={link[1]} > {link[1]} </a> </span>
+      </div>
+    );
+  })
+);
 
 
 export default Card;

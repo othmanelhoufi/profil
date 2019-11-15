@@ -25,8 +25,8 @@ const Contact = (props) => (
 
 const arrayToIcons = (arr) => ( arr.map( (social, num) => {
     return (
-      <div>
-        <SocialMedia key={num} name={social.network} link={social.link} iconPath={social.iconPath} />
+      <div key={num}>
+        <SocialMedia name={social.network} link={social.link} iconPath={social.iconPath} />
       </div>
     );
   })

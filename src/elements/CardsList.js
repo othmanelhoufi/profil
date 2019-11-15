@@ -19,8 +19,8 @@ const CardsList = (props) => (
 
 const arrayToCard = (arr) => ( arr.map( (exp, num) => {
     return (
-      <div>
-        <Card key={num} title={exp.title} date={exp.date} details={exp.details} image={exp.image}/>
+      <div key={num}>
+        <Card title={exp.title} date={exp.date} details={exp.details} links={exp.links} image={exp.image}/>
       </div>
     );
   })

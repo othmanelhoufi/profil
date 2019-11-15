@@ -9,6 +9,10 @@
     outline: none;
 }
 
+body {
+  min-height:100%;
+  position:relative; 
+}
 
 .button.element {
     width: 200px;
