@@ -17,7 +17,7 @@ function Lightbox( props ) {
       let tmp = "";
       let extension = path.substring( path.length - 4 , path.length );
       if (  extension !== ".png" && extension !==".jpg" && extension !==".gif" && extension !=="jpeg" ) {
-        tmp = <img className='images' src="../images/minature.png" alt="../images/minature.png" />
+        tmp = <img className='images' src="./images/minature.png" alt="./images/minature.png" />
       } else {
         tmp = <img className="images" src={path} alt={path} />
       }
