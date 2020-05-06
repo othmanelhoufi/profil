@@ -17,6 +17,17 @@
     },
 
     {
+      "title" : "Fast Fourier Transform",
+      "date" : "2019-2020",
+      "details" : "Jean-Baptiste Joseph Fourier was a French mathematician and physicist born in Auxerre and best known for initiating the investigation of Fourier series, which eventually developed into Fourier analysis and harmonic analysis, and their applications to problems of heat transfer and vibrations. \n\nThe Fourier transform (FT) decomposes a function (often a function of time, or a signal) into its constituent frequencies. The Fourier transform of a function of time is itself complex-valued function of frequency, whose magnitude (modulus) represents the amount of that frequency present in the original function, and whose argument is the phase offset of the basic sinusoid in that frequency. \n\nThis web application is a small application of the Fourier Transform, after extracting the (x,y) coordinates from the SVG path passed in as a file, it then uses a known algorithm called the Fast Fourier Transform (FFT), also known as the Cooley-Tukey algorithm, in order to generate the appropriate frequencies, then it's been drawn gradually using epicycles.\n\n",
+      "links" :
+              [
+                [ "Link: " , "https://othmanelhoufi.github.io/fourier/" ]
+              ],
+      "image" : [ ]
+    },
+
+    {
       "title" : "Open Source Website",
       "date" : "2019-2020",
       "details" : "After I learned Javascript and ReactJs, I decided to create a website not only to practice what I learned but also to make a responsive website that everyone can use without having any knowledge in programming, so I decided to create a modern curriculum vitae website where the employer can see your experiences, your education, your skills, a portfolio of your work and also contact you directly to your email.\nThe main idea is to make the website so personal for each one who decides to use my code, and that it adapts automatically to his personal status and work, so I created a generic version where the only thing you have to do is to modify a JSON file and put your own information and voilà you own a personal website, no coding skills needed. I designed the website on Figma, then I programmed it using Atom as an editor, and ReactJs as a Javascript framework. It’s fully responsive and with a modern simplistic design.\n\n",

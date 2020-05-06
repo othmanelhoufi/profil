@@ -3,8 +3,6 @@ import React, { useState } from 'react';
 import useForm from 'react-hook-form';
 import './FormStyle.scss';
 
-import Fade from 'react-reveal/Fade';
-
 
 export default function Form( props ) {
 
